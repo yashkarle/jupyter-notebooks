@@ -10,4 +10,5 @@ A quick introductory exercie with pandas involving DataFrame, Series, Indexes
 Implementation for the same in python using the method as shown in the vitter.pdf paper.  
 Download the English Wikipedia titles data set 
 4. Notebook created as part of the Deep Learning Workshop.  
+Data required to run the same can be found in data/.  
 5. A tutorial, getting started notebook for the Python course.  
